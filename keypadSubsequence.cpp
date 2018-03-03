@@ -1,3 +1,4 @@
+//This program prints all the subsequences of a given string.
 #include <bits/stdc++.h>
 using namespace std;
 int keypad(int num, string output[],string keypadButton[])
